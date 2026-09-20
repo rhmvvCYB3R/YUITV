@@ -464,8 +464,8 @@ Redis
 
 ---
 
-# ⭐ YUITV
+#  YUITV
 
 **Your world. Your television.**
 
-Built with ❤️ and code.
+
